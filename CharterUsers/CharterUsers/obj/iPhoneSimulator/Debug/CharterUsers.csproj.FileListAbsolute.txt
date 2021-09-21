@@ -1,0 +1,17 @@
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/bin/iPhoneSimulator/Debug/CharterUsers.exe
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/bin/iPhoneSimulator/Debug/CharterUsers.pdb
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_PartialAppManifest.items
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_PartialAppManifest.items
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/Entitlements.plist
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/CharterUsers.csproj.AssemblyReference.cache
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/CharterUsers.csproj.CoreCompileInputs.cache
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/CharterUsers.csproj.CopyComplete
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/CharterUsers.exe
+/Users/smuthin3/Documents/Charter/CharterUsers/CharterUsers/obj/iPhoneSimulator/Debug/CharterUsers.pdb

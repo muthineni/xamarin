@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{27C29253-26EA-4863-A7E1-667D66BB24C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CharterUsers/Utilities/StringValidator.cs">
+    <Files>
+      <File FileName="CharterUsers/DetailViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="CharterUsers/DetailViewController.cs" />
+      <File FileName="CharterUsers/Utilities/StringValidator.cs" Line="28" Column="1" />
+      <File FileName="CharterUsers/Model/User.cs" />
+      <File FileName="CharterUsers/MasterViewController.cs" />
+      <File FileName="CharterUsers/DataManager/DataManager.cs" />
+      <File FileName="CharterUsers/AppDelegate.cs" />
+      <File FileName="CharterUsers/SceneDelegate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CharterUsers" expanded="True">
+            <Node name="CharterUsers" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="DataManager" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="StringValidator.cs" selected="True" />
+              </Node>
+              <Node name="DetailViewController.cs" expanded="True" />
+              <Node name="MasterViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CharterUsers PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FE58DBF6-6483-4032-A3DA-5C6CE7804A9D" />
+  <MultiItemStartupConfigurations />
+</Properties>

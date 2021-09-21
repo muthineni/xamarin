@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/LaunchScreen.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LaunchScreen.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc/MasterViewController.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/MasterViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc/DetailViewController.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/DetailViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

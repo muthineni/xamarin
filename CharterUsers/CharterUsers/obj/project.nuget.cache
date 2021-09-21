@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eo7xLaC5e4KtJs3xpTld4T1xh5BMyzwK/isfY0PvebhsOwmimZcPdSv0fXHVtlX1xtVssAwi6XvlC3zqkdh+cA==",
+  "success": true,
+  "projectFilePath": "/Users/smuthin3/m2git/xamarin/CharterUsers/CharterUsers/CharterUsers.csproj",
+  "expectedPackageFiles": [
+    "/Users/smuthin3/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/smuthin3/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/smuthin3/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
